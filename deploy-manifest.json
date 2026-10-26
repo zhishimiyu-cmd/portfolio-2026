@@ -1,0 +1,14 @@
+{
+  "htmlPages": 17,
+  "files": 352,
+  "filesByType": {
+    ".html": 17,
+    ".svg": 10,
+    ".css": 2,
+    ".js": 1,
+    ".png": 26,
+    ".jpg": 274,
+    ".mp4": 12,
+    ".woff2": 10
+  }
+}
